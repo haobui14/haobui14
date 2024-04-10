@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hao Bui
-- 👀 I’m interested in becoming an IOS engineer or Web Full-Stack Developer
-- 🌱 I’m currently learning Swift and Reactjs
-- 💞️ I’m looking to collaborate on developing IOS applications or Web applications
+- 👀 I’m a 3-year Experienced Software Developer with React, Next.js
+- 🌱 I’m currently learning Django to become a Full-stack Developer
+- 💞️ I’m looking to collaborate on developing Web applications
 - 📫 How to reach me through my email: haobp.dev@gmail.com
 
 
